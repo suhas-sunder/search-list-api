@@ -3,3 +3,4 @@ This project uses the datamuse API to generate words related to the text being i
 
 <img width="380" alt="image" src="https://github.com/suhas-sunder/search-list-api/assets/77464593/f0f7bef1-c873-4b94-9cff-e0b801303445">
 
+datamuse api: https://www.datamuse.com/api/ 
